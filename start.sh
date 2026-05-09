@@ -1,2 +1,2 @@
 #!/bin/bash
-python laxxyscript.py
+python3 bot.py
